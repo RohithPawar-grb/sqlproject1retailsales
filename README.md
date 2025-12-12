@@ -72,6 +72,9 @@ Shift Logic: Morning (<12), Afternoon (12–17), Evening (>17).
 🧠 Key Insights
 
 • Identified best-performing months using average sales.
+
 • Found category-wise customer demographics.
+
 • Determined high-value customers.
+
 • Analyzed time-of-day sales trends.
