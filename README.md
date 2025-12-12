@@ -75,13 +75,3 @@ Shift Logic: Morning (<12), Afternoon (12–17), Evening (>17).
 • Found category-wise customer demographics.
 • Determined high-value customers.
 • Analyzed time-of-day sales trends.
-
-🚀 How to Use This Project
-
-1. Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-
-
-2. Open the SQL file in any SQL editor.
-3. Run scripts in this order: Database → Cleaning → EDA → Analysis.
